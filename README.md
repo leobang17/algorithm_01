@@ -108,10 +108,9 @@ _________________________________________________________________
 ```
 
 ## Test accuracies and losses.
-
+![loss_accuracy](https://user-images.githubusercontent.com/77837101/121796686-ffc02100-cc55-11eb-9e40-997671b5079a.png)
 
 ## Find index of wrong prediction
-
-
+![plot error](https://user-images.githubusercontent.com/77837101/121796688-0058b780-cc56-11eb-9635-ecd125bd8b0d.png)
 
 
