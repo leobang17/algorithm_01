@@ -110,6 +110,20 @@ _________________________________________________________________
 ## Test accuracies and losses.
 ![loss_accuracy](https://user-images.githubusercontent.com/77837101/121796686-ffc02100-cc55-11eb-9e40-997671b5079a.png)
 
+## plot images, probability
+- model 1
+
+![model1](https://user-images.githubusercontent.com/77837101/121797329-8414a300-cc5a-11eb-9968-2907787d93f1.png)
+
+- model 2
+
+![model2](https://user-images.githubusercontent.com/77837101/121797331-8545d000-cc5a-11eb-9f4a-0dcb477cf461.png)
+
+- model 3
+
+![model3](https://user-images.githubusercontent.com/77837101/121797332-8676fd00-cc5a-11eb-8b21-895ca2a60138.png)
+
+
 ## images and corresponding probability that predicted wrong
 ![plot error](https://user-images.githubusercontent.com/77837101/121796688-0058b780-cc56-11eb-9635-ecd125bd8b0d.png)
 
